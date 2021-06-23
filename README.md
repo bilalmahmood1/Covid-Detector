@@ -1,2 +1,4 @@
 # Covid-Detector
-# Covid-Detector
+
+
+![](covid-detector.png)
